@@ -1,7 +1,5 @@
 # Blood Bank Inventory & Emergency Donor Matcher
 
-## Software Engineering Lab 1
-
 This repository contains the requirements engineering and UML use-case modelling artifacts for a Blood Bank Inventory & Emergency Donor Matcher system.
 
 ## Problem Overview
