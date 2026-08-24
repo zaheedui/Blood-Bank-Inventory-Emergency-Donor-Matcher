@@ -1,2 +1,44 @@
-# Blood-Bank-Inventory-Emergency-Donor-Matcher
-Blood banks require a real-time stock management system that monitors blood component shelf lives and triggers geo-targeted emergency notifications to matching eligible donors during critical shortages.
+# Blood Bank Inventory & Emergency Donor Matcher
+
+## Software Engineering Lab 1
+
+This repository contains the requirements engineering and UML use-case modelling artifacts for a Blood Bank Inventory & Emergency Donor Matcher system.
+
+## Problem Overview
+
+The system manages real-time blood bank inventory, monitors blood-unit expiry, processes emergency blood requests, and identifies compatible eligible donors during critical shortages.
+
+## Actors
+
+* Emergency Requester
+* Blood Bank Manager
+* SMS Notification Service
+
+## Deliverables
+
+### 1. Requirements Table
+
+Contains:
+
+* FR-001 to FR-005
+* NFR-001 to NFR-002
+* Priorities
+* Acceptance criteria
+* Rationales
+
+### 2. UML Use-Case Diagram
+
+The diagram models the major actors and system functionality and includes `<<include>>` and `<<extend>>` relationships.
+
+### 3. Use-Case Flow
+
+The use-case flow specifies:
+
+**UC-01 — Submit Emergency Blood Request**
+
+It contains:
+
+* Preconditions
+* Postconditions
+* Main Success Scenario
+* Alternate Flow
