@@ -6,7 +6,7 @@ This repository contains the requirements engineering and UML use-case modelling
 
 The system manages real-time blood bank inventory, monitors blood-unit expiry, processes emergency blood requests, and identifies compatible eligible donors during critical shortages.
 
-## Actors
+## Actors (people involved in the management of the task)
 
 * Emergency Requester
 * Blood Bank Manager
